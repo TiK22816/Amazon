@@ -1,0 +1,6 @@
+#req = scrapy.Request(
+#   'https://www.amazon.com/Just-My-Size-Womens-Shirred/dp/B016LJ6MCS/ref=sr_1_41?c=ts&keywords=Women%27s+T-Shirts&qid=1701705588&s=apparel&sr=1-41&ts_id=1044544',
+#   headers={'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:66.0) Gecko/20100101 Firefox/66.0'},)
+# Решает 500 проблему
+
+#<h2 class="a-size-mini a-spacing-none a-color-base s-line-clamp-4"><a class="a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal" href="/Hanes-Womens-V-Neck-Sleeve-Ebony/dp/B01I21GX68/ref=sr_1_1?c=ts&amp;keywords=Women%27s+T-Shirts&amp;qid=1701705588&amp;s=apparel&amp;sr=1-1&amp;ts_id=1044544"><span class="a-size-base-plus a-color-base a-text-normal">Hanes Womens Originals Long Sleeve Cotton V-Neck T-Shirt, Lightweight V-Neck Tee, Modern Fit</span> </a> </h2>
